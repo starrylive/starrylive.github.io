@@ -5,4 +5,20 @@
     <url>/2019/11/10/hellow-world-myblog/</url>
     <content><![CDATA[]]></content>
   </entry>
+  <entry>
+    <title>论文研究</title>
+    <url>/2018/05/30/mypdf/</url>
+    <content><![CDATA[<center>**Attention is all you need**</center>
+
+<p><br></p>
+<div class="pdf" target="transformer.pdf" height=""></div> 
+<p><br></p>
+]]></content>
+      <categories>
+        <category>论文笔记</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
 </search>
