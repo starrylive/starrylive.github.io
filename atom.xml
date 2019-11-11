@@ -31,4 +31,35 @@
     
   </entry>
   
+  <entry>
+    <title>论文研究</title>
+    <link href="http://yoursite.com/2018/05/30/mypdf/"/>
+    <id>http://yoursite.com/2018/05/30/mypdf/</id>
+    <published>2018-05-30T12:07:12.000Z</published>
+    <updated>2019-11-11T01:28:04.299Z</updated>
+    
+    <content type="html"><![CDATA[<center>**Attention is all you need**</center><p><br></p><div class="pdf" target="./transformer.pdf" height=""></div> <p><br></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;center&gt;**Attention is all you need**&lt;/center&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;div class=&quot;pdf&quot; target=&quot;./transformer.pdf&quot; height=&quot;&quot;&gt;&lt;/div&gt; 
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="论文笔记" scheme="http://yoursite.com/categories/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
 </feed>
